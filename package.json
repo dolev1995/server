@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jsrsasign": "^10.5.13",
+    "jsrsasign-util": "^1.0.5",
+    "mongoose": "^6.2.8",
+    "multer": "^1.4.4",
+    "package-json": "^7.0.0",
+    "q": "^1.5.1",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.13"
+  }
+}
